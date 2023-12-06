@@ -1,4 +1,6 @@
 # Projeto de Software para a disciplina de POO[2023.2]
 
-- Menu: Script principal, inicializa o código;
-- Biblioteca: Tem todas as funções para a manipulação do repositório de livros;
+Requisitos criados: 
+
+- 1º: Catalog Search: Users can search the library catalog by title, author, genre. [Entre no repositório de livros clicando em A, e depois clique C para consultar qualquer livro] - Criado em (06/12/2023)
+
