@@ -3,7 +3,6 @@ import time
 import main
 import sys
 import usuario
-from datetime import datetime
 
 BiblioteList = []
 livrosEmprestados = []
@@ -276,7 +275,6 @@ def operations(email):
                 reservado = True
                 quemreservou = "ninguem"
                 #quempegouemprestado = "ninguem"
-                horadecadastro = datetime.now()
                 ano = input("Digite o ano da publicação do livro: ")
                 descricaoLivro = input("Descreva uma breve descrição sobre o livro: ")
                 for c in BiblioteList:
