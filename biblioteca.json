@@ -1,0 +1,24 @@
+[
+  {
+    "Titulo": "A Sombra do Vento",
+    "Autor": "Carlos Luiz Zafon",
+    "Genero": "romance gotico",
+    "Ano": "2001",
+    "Descricao": "a historia de um jovem aventureiro que descobre um livro misterioso",
+    "Disponivel": true,
+    "UsuarioEmprestado": [],
+    "DisponivelReserva": true,
+    "QuemReservou": "ninguem"
+  },
+  {
+    "Titulo": "Norwegian Wood",
+    "Autor": "Haruki Murakami",
+    "Genero": "romance",
+    "Ano": "1987",
+    "Descricao": "a historia de um estudante universitario refletindo sobre o seu relacionamento com Naoko",
+    "Disponivel": true,
+    "UsuarioEmprestado": [],
+    "DisponivelReserva": true,
+    "QuemReservou": "ninguem"
+  }
+]
